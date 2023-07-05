@@ -1,9 +1,9 @@
-
+import { AppWrapper } from "./styles";
 function App() {
   return (
-    <div className="App">
-      Bewkoof
-    </div>
+    <AppWrapper>
+      Bewkoof App
+    </AppWrapper>
   );
 }
 
